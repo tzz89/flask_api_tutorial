@@ -1,0 +1,6 @@
+#install local packages
+-e .
+
+#external packages
+flask
+flask-wtf
